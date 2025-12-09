@@ -1,0 +1,3 @@
+Madoka,200
+Homura,0
+Sayaka,0
